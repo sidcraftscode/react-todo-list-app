@@ -34,7 +34,7 @@ npm run build
 * [React](https://react.dev)
 * [TailwindCSS](https://tailwindcss.com)
 
-## To-do
+## Tasks
 - [ ] Add dark mode
 - [ ] Add a settings menu
 - [ ] Make the delete modal optional
