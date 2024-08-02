@@ -34,6 +34,11 @@ npm run build
 * [React](https://react.dev)
 * [TailwindCSS](https://tailwindcss.com)
 
+## To-do
+- [ ] Add dark mode
+- [ ] Add a settings menu
+- [ ] Make the delete modal optional
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
