@@ -58,10 +58,10 @@ const TodoList = () => {
   };
 
   return (
-    <div className="p-2 border sm:my-24 md:my-48 rounded-xl m-2 mx-auto max-w-sm flex flex-col space-y-2">
+    <div className="p-4 bg-white shadow sm:my-24 md:my-48 rounded-xl m-2 mx-auto max-w-sm flex flex-col space-y-2">
       <input
         type="text"
-        className="placeholder:text-gray-300 border border-gray-300 rounded-lg w-full p-2 flex placeholder:text-right items-center focus:border-green-500 focus:ring-4 focus:ring-green-100"
+        className="placeholder:text-gray-300 border border-gray-300 rounded-lg w-full p-2 flex items-center focus:border-green-500 focus:ring-4 focus:ring-green-100"
         placeholder="Press ⏎ to add new task"
         onKeyDown={handleAddTodo}
       />
